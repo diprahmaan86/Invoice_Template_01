@@ -1,0 +1,199 @@
+/* All Common CSS Starts */
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+ul, ol{
+    list-style-type: none;
+}
+h1, h2, h3, h4, h5, h6, p{
+    margin: 0;
+    padding: 0;
+    line-height: 0.8;
+}
+a, a:hover{
+    text-decoration: none;
+    display: inline-block;
+}
+
+/* All Common CSS Ends */
+/* Header Part Starts */
+
+#header{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.header_title h1{
+    color: black;
+    font-size: 48px;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+}
+.header_name h2{
+    color: black;
+    font-size: 24px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Header Part Ends */
+/* Line Part Starts */
+
+#line{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.full_line{
+    height: 3px;
+    width: 100%;
+    background: #555;
+}
+
+/* Line Part Ends */
+/* Top Part Starts */
+
+#top{
+    padding: 10px;
+}
+.top_num{
+    padding: 20px;
+    background: rgb(34, 123, 206);
+    margin-bottom: 10px;
+}
+.top_date{
+    padding: 20px;
+    background: rgb(34, 123, 206);
+    margin-bottom: 10px;
+}
+.top_num h4{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
+.top_date h4{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Top Part Ends */
+/* Billing Part Starts */
+
+#billing{
+    padding: 10px;
+}
+.billing_head{
+    padding: 20px;
+    background: rgb(34, 123, 206);
+}
+.billing_head h4{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
+.bill_body{
+    padding-top: 20px;
+}
+.bill_body h4{
+    color: black;
+    font-size: 12px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 10px;
+}
+
+/* Billing Part Ends */
+/* Body Part Starts */
+
+#body{
+    padding: 10px;
+}
+.body_up{
+    padding: 20px;
+    background: rgb(34, 123, 206);
+}
+.body_up h4{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Body Part Ends */
+/* Body1 Part Starts */
+
+.body_mid{
+    padding: 20px;
+    background: rgb(221, 221, 224);
+    margin-bottom: 10px;
+}
+
+/* Body1 Part Ends */
+/* Summation Part Starts */
+
+#summation{
+    padding: 10px;
+}
+.sum_txt h5{
+    color: black;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+}
+.sum_txtt{
+    padding: 20px;
+    background: rgb(34, 123, 206);
+}
+.sum_txts{
+    padding: 20px;
+    background: rgb(34, 123, 206);
+}
+.sum_txtt h3{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+}
+.sum_txtt h4{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 10px;
+}
+.sum_txtt h5{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 10px;
+}
+.sum_txts h3{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+}
+.sum_txts h4{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 10px;
+}
+.sum_txts h5{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 10px;
+}
+
+/* Summation Part Ends */
